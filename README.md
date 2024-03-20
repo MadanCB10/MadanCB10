@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MadanCB
 - 👀 I’m interested in Machine learning and Web development
-- 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on ML related projects
+- 🌱 I’m currently learning web development.
+- 💞️ I’m looking to collaborate with projects
 - 📫 How to reach me @ madancb2001@gmail.com
 
 <!---
