@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MadanCB
 - 👀 I’m interested in Machine learning and Web development
-- 🌱 I’m currently learning web development.
+- 🌱 I’m currently learning Aiml, Devops, Networks.
 - 💞️ I’m looking to collaborate with projects
 - 📫 How to reach me @ madancb2001@gmail.com
 
